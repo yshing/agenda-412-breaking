@@ -1,0 +1,12 @@
+{
+  "name": "agenda-412-breaking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yshing/agenda-412-breaking.git",
+  "author": "Y.Shing <5630513+yshing@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "agenda-410": "npm:agenda@4.1.0",
+    "agenda-412": "npm:agenda@4.1.2"
+  }
+}
